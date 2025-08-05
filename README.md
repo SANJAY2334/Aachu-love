@@ -1,12 +1,91 @@
-# React + Vite
+# 💍 The Proposal Journey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A heartfelt interactive web experience that captures a beautiful love story through cinematic storytelling, emotional transitions, and a magical proposal — complete with rose petals, confetti, and a timestamped email delivery using EmailJS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🌸 **Animated Story Page** – Elegant card transitions, soft sparkles, and floating hearts.
+- 💌 **Proposal Page** – Confetti explosion, falling rose petals, and emotional confirmation screen.
+- 📬 **Email Notification** – Sends a personalized love message to the chosen one using EmailJS.
+- 📸 **Memory Slideshow (Coming Soon)** – Romantic Polaroid-style slideshow of shared memories.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Project Structure
+
+src/
+├── components/
+│ └── (Reusable UI elements)
+├── pages/
+│ ├── Story.jsx # Intro story timeline
+│ ├── Proposal.jsx # Proposal interaction with confetti + EmailJS
+│ └── Slideshow.jsx # (Optional) Memories with image carousel
+├── App.jsx
+├── main.jsx
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/proposal-journey.git
+cd proposal-journey
+
+npm install 
+
+3. Set up EmailJS
+Go to EmailJS Dashboard
+
+Create a new Email Service
+
+Create an Email Template with variables: to_name, from_name, message
+
+Get your Service ID, Template ID, and Public Key
+
+4. Update your code
+In Proposal.jsx, replace:
+'service_xxxxx', 'template_xxxxx', 'your_public_key'
+
+With your real EmailJS values.
+
+🧪 Development:
+npm run dev
+Start the app locally at http://localhost:5173  or Vite's default port.
+
+🛠 Tech Stack
+⚛️ React with Vite
+
+🎨 Tailwind CSS for styling
+
+💌 EmailJS for sending messages
+
+🎉 Canvas-Confetti for animations
+
+🌹 Custom CSS animations for rose petals and hearts
+
+💡 Future Enhancements
+📸 Romantic slideshow with polaroid animations
+
+🎵 Background music with volume control
+
+📥 Downloadable "Love Capsule" PDF
+
+🌙 Dark/light toggle based on mood
+
+🙌 Acknowledgements
+To every heartbeat, every memory, every “Yes” —
+this project is dedicated to the moments that change lives forever.
+
+🧠 Author
+Made with ❤️ by [Sanjay.R / QLeap.Ai]
+📬 Contact:ragsanjay9@gmail.com
+
+📜 License
+This project is licensed under the MIT License.
+
+
+---
