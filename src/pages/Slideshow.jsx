@@ -3,23 +3,23 @@ import { useState, useEffect } from 'react'
 const slides = [
   {
     image: '/photos/first-date.jpg',
-    memory: 'Our first coffee date — I still remember your nervous smile.',
+    memory: 'On Aug 7th 2023, this message of yours changed everything. I was so nervous to open that message which was sent once, that once view message totally changed my feelings for you.',
   },
   {
     image: '/photos/beach.jpg',
-    memory: 'The sea breeze, your laughter, and that perfect sunset.',
+    memory: 'This hand of yours fits mine like destiny whispered it into being and I never want you to let it go.',
   },
   {
     image: '/photos/travel.jpg',
-    memory: 'Lost in a new city, but found home in your eyes.',
+    memory: 'You in my arms, this morning felt special and brighter when we had a great moments in the temple .',
   },
   {
     image: '/photos/birthday.jpg',
-    memory: 'You made my birthday unforgettable — your love was the best gift.',
+    memory: 'Hope so I made your birthday the best and memorable one my love❤️.',
   },
   {
     image: '/photos/best.jpg',
-    memory: 'This one… my favorite. Us. In our purest joy.',
+    memory: 'This one is my favorite chai. We both smiling and I am holding you with lots and lots of love. This pic of ours is the purest joy😘.',
     highlight: true,
   },
 ]
@@ -30,7 +30,7 @@ export default function Slideshow() {
   useEffect(() => {
     const interval = setInterval(() => {
       setIndex((prev) => (prev + 1) % slides.length)
-    }, 5000)
+    }, 15000)
     return () => clearInterval(interval)
   }, [])
 
@@ -51,7 +51,7 @@ export default function Slideshow() {
         style={{
           width: '300px',
           maxWidth: '80vw',
-          height: '400px',
+          height: '480px',
           display: 'flex',
           flexDirection: 'column',
           justifyContent: 'space-between',

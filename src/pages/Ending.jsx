@@ -40,13 +40,15 @@ My Love,
 
 As I sit down to write these words, my heart overflows with memories, moments, and the silent promises we've shared.
 
-You walked into my life like a soft breeze—unseen but deeply felt. With your smile, you healed pieces of me I never knew were broken. With your silence, you spoke the loudest comfort. And with your love, you gave me a world I never dreamed of asking for.
+You walked into my life like a soft breeze unseen but deeply felt. With your smile, you healed pieces of me I never knew were broken. With your silence, you spoke the loudest comfort. And with your love, you gave me a world I never dreamed of asking for.
 
-Every glance, every laugh, every time you said my name — they are chapters of a story I want to write forever.
+Every glance, every laugh, every time you said my name Ajay and sometimes Aachu they are chapters of a story I want to write forever.
 
-I don’t know what life holds for us in the years ahead, but I know one thing with all of me:
+I don’t know what life holds for us in the years ahead, but I know one thing that you will always be there for me to create more memeories. I promise i will always be there in hardest situations holding your hand and understanding you better. 
 
-I want to write it all... with you.
+Chai, you showed me what love is, what honesty is, what trust is, you are a complete package of love, care, respect, honesty, and trust. You are MY EVERYTHING, MY SOULEMATE, MY FOREVER, MY LOVE, MY CHAI YOU ARE MY LIFE.
+
+I want to write our stories together and there should be happiness, trust, understanding, care, support, sadness, love ... Only with you and i have dreamed lots of things which i want to bring into reality.
 
 Forever yours,  
 Aachu ❤️
@@ -57,7 +59,7 @@ Aachu ❤️
       <img
         src="https://img.freepik.com/premium-psd/rose-wax-seal-isolated-transparent-background_838900-59010.jpg" // transparent rose wax seal
         alt="Rose Seal"
-        className="w-24 mt-10 z-10"
+        className="w-25 mt-10 z-10"
         style={{ filter: 'drop-shadow(0 0 6px crimson)' }}
       />
 

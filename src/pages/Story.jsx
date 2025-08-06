@@ -18,25 +18,22 @@ export default function Story() {
 
   const moments = [
     {
-      title: 'The First kiss',
-      text: "It all started wit0 65w6d4as6d4h a simple 'Hi' that changed everything.",
+      title: 'Our First meet🧑‍🤝‍🧑',
+      text: "It all started with a first meet at jspider and then I got feelings when we both were in the same team, we used do the presentation and that time I got that comfort, vibe and I just fell for you. my love you changed everything.",
     },
     {
-      title: 'The First Laugh',
-      text: 'That moment we laughed together — I knew something was different.',
+      title: 'Our First date🫂',
+      text: 'One heart, two souls, and infinite memories. We spoke lots of things and you just made my day sooo special and will always cherish forever. Secret Spot Caféನಲ್ಲಿ coffee ಶುರುವಾದ ಪ್ರೀತಿ… ಇಂದು ನನ್ನ ಬದುಕಿನ ಅರ್ಥವಾಗಿದೆಯೆನಿಸುತ್ತೆ  ನೀನು ❤ The first hug in jaynagar metro station, that feelings only was next level dear. Forever with you, Chai.'
     },
     {
-      title: 'The Long Talks',
-      text: 'Midnight conversations turned into memories I never want to lose.',
+      title: 'Our First Kiss😘',
+      text: 'It was not planned. It was not grand. We did not think of anything and we just did it. It was just special and memorable which i will never forget. You just made me feel like I was in heaven chai.',
     },
     {
-      title: 'The First Touch',
-      text: 'When your hand touched mine... the world felt quiet.',
+      title: 'Our First video call📞',
+      text: 'We just started randomly and exactly on june 2nd night at 11:16pm which lasted for 47m and 57s. These memories are priceless and unforgettable. Our video call is very unique where we used to not talk only our actions used to speak😁 Defenitely we are a unique couple for a reason💏',
     },
-    {
-      title: 'The Promise',
-      text: 'From strangers to soulmates — this is our journey.',
-    },
+    
   ]
 
   return (
